@@ -1,5 +1,5 @@
 /**************************************************************************************************\
-*    Author: Zwolinski, R.																		   *
+*    Author: Genute, A.																		   *
 *    Class: CST 113                                                                                *
 *    Project: Module 2 Demo                                                                        *
 *                                                                                                  *
@@ -16,12 +16,15 @@
 \**************************************************************************************************/
 
 #include <iostream> // Included for the input and output functions.
-#include <string> // Included for the use of strings
+#include <string> // Included for the use of strings.
 
 using namespace std; // Defining the namespace.
 
-int main() 
-{
+int main() {
+    "Variable Block"
+    "Athen Genute"  
+    "genutea@acad.sunybroome.edu"
+
     // Variable Declaration Block
     // Declaration is not the same as initialization
     // This only reserves memory, but does not initialize a value
