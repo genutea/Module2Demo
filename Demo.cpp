@@ -21,9 +21,24 @@
 using namespace std; // Defining the namespace.
 
 int main() {
-    "Variable Block"
-    "Athen Genute"  
-    "genutea@acad.sunybroome.edu"
+    //Variable Block 
+    "Athen Genute";  
+    "genutea@acad.sunybroome.edu";
+
+    float GPA; //GPA Here
+    int age; //age
+    bool true;  
+    int num1 //grade 1 
+    int num2 //grade 2
+    int num3 //grade 3
+    int num4 //grade 4 
+    int num5 //grade 5
+    num1= 
+    num2= 
+    num3= 
+    num4=
+    num5= 
+    float average //average of the 5 grades 
 
     // Variable Declaration Block
     // Declaration is not the same as initialization
