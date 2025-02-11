@@ -1,7 +1,7 @@
 /**************************************************************************************************\
-*    Author: Genute, A.																		   *
+*    Author: Genute, A.																		       *
 *    Class: CST 113                                                                                *
-*    Project: Module 2 Demo                                                                        *
+*    Project: Lab 1                                                                        *
 *                                                                                                  *
 *   Description:                                                                                   *
 *   Demonstration of variable creation, arithmetic, simple input and output                        *
@@ -22,23 +22,36 @@ using namespace std; // Defining the namespace.
 
 int main() {
     //Variable Block 
-    "Athen Genute";  
-    "genutea@acad.sunybroome.edu";
+    string name = "Athen Genute";
+    string email = "genutea@acad.sunybroome.edu";
 
-    float GPA; //GPA Here
+    float GPA; //GPA
+    
     int age; //age
-    bool true;  
-    int num1 //grade 1 
-    int num2 //grade 2
-    int num3 //grade 3
-    int num4 //grade 4 
-    int num5 //grade 5
-    num1= 
-    num2= 
-    num3= 
-    num4=
-    num5= 
-    float average //average of the 5 grades 
+
+    bool tf = true;
+    
+    int num1; //grade 1 
+    int num2; //grade 2
+    int num3; //grade 3
+    int num4; //grade 4 
+    int num5; //grade 5 
+
+    int age = 19; 
+
+    num1 = 92;
+    num2 = 95;
+    num3 = 100;
+    num4 = 87;
+    num5 = 83;
+
+    float average; //average of the 5 grades 
+
+   // gpa = avg * 4
+
+    //print statements
+
+    cout <" "< endl
 
     // Variable Declaration Block
     // Declaration is not the same as initialization
