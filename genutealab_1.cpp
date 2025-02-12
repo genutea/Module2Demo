@@ -49,9 +49,9 @@ int main() {
 
    // gpa = avg * 4
 
-    //print statements
+        //print statements   cout <" "< endl 
 
-    cout <" "< endl
+ 
 
     // Variable Declaration Block
     // Declaration is not the same as initialization
